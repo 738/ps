@@ -2,7 +2,7 @@
 # 181225
 
 import sys
-sys.setrecursionlimit(3000)
+sys.setrecursionlimit(2000)
 
 arr = [0] * 5001
 
@@ -14,6 +14,7 @@ def dp(num):
         return -1
     elif arr[num] != 0:
         return arr[num]
+
     a = dp(num-3)
     b = dp(num-5)
     if a == -1 and b == -1:
