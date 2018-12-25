@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="725dfadf-70af-4dcf-b41a-b458f1ef023b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ps/1003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps/2747.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10828.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/10828.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1978.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/1978.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2581.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/2581.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2741.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/2741.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps/easy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ps/1003.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ps/2747.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -67,6 +71,18 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'zero'</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -76,6 +92,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/10828.py" />
         <option value="$PROJECT_DIR$/ps/1003.py" />
+        <option value="$PROJECT_DIR$/ps/2747.py" />
       </list>
     </option>
   </component>
@@ -140,12 +157,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545722061031</updated>
-      <workItem from="1545722065551" duration="4907000" />
+      <workItem from="1545722065551" duration="5682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4907000" />
+    <option name="totallyTimeSpent" value="5682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -206,8 +223,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ps/1003.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ps/2747.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
