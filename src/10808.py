@@ -1,0 +1,1 @@
+s=input();print(*[s.count(a)for a in'abcdefghijklmnopqrstuvwxyz'])
