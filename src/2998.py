@@ -1,0 +1,1 @@
+print(oct(eval("0b"+input()))[2:])
