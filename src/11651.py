@@ -1,0 +1,1 @@
+[print(*v)for v in sorted([[*map(int,input().split())]for i in range(int(input()))],key=lambda x:[x[1],x[0]])]
