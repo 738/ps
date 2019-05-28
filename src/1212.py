@@ -1,4 +1,1 @@
-n=input()
-x=int(n,8)
-x=bin(x)
-print(x[2:])
+eval('pr!t(b!(!t(!put(),8))[2:])'.replace(*'! in'.split()))
