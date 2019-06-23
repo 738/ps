@@ -1,4 +1,5 @@
-s=input()
+import sys
+s=sys.stdin.readline()
 sticks=[]
 sum = 0
 isLazer = False
